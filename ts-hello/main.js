@@ -1,5 +1,5 @@
-function log(message) {
-    console.log(message);
-}
-var message = 'Hello World';
-log(message);
+
+let message = 'abc';
+
+let endsWithC =message.endsWith('c');
+let slternativeWay =(message as String).endsWith('c');
