@@ -23,3 +23,5 @@ export class AppComponent {
       alert("Changed month from the Dropdown");
    }
 }
+
+console.log(alert"hello");
